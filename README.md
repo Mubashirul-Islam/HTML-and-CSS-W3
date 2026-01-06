@@ -20,6 +20,7 @@ A responsive web project built using **HTML5** and **CSS3**, focusing on semanti
 - **HTML5**
 - **CSS3**
   - Flexbox
+  - Grid
   - Media Queries
 
 ---
@@ -28,7 +29,7 @@ A responsive web project built using **HTML5** and **CSS3**, focusing on semanti
 
 project-folder/  
 ├── index.html  
-├── styles.css
+├── styles.css  
 ├── assets/  
 └── README.md  
 
